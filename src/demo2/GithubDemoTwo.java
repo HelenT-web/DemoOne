@@ -7,10 +7,10 @@ public class GithubDemoTwo {
 
 		gitDemoOne();
 		
-		gitDemoOne();
+		webUI();
 	}
 
-	
+
 	public static void gitDemoOne() {
 		System.out.println("Pringting gitDemoOne for understanding process");
 	}
